@@ -16,6 +16,7 @@ MQTT-NodeRED-Monitoring-Solutions/
 ├── 01-multi-asset-tracking-system/
 ├── 02-environmental-sensor-dashboard/
 ├── 03-mqtt-topic-architecture/
+├── requirements.txt
 └── README.md
 ```
 
