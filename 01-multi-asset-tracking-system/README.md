@@ -191,7 +191,7 @@ If:
 
 ##  Project Contents
 * **Python Scripts:** [codes](./codes)
-* **Full Report:** [reports](./report/)
+* **Full Report:** [reports](./reports/)
 * **Media Folder:** [/media/](./media)
 * **Dependencies:** [requirements.txt](./requirements.txt)
 ---
@@ -246,4 +246,5 @@ The system provides a simplified simulation of real-world asset tracking used in
 
 ---
 ---
+
 *Developed as part of the University IoT Architecture course.*
