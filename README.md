@@ -82,7 +82,7 @@ Industrial facility monitoring system for tracking environmental conditions in s
 ---
 
 ##  Industrial MQTT Topic Architecture  
- [03-mqtt-topic-architecture](./03-Mqtt-Topic-Architecture)
+ [03-mqtt-topic-architecture](./03-MQTT-Topic-Architecture)
 
 **Technologies Used:**
 - MQTT Explorer
