@@ -56,7 +56,7 @@ Emergency response coordination system for monitoring field personnel and vehicl
 ---
 
 ##  Environmental Sensor Dashboard  
- [02-environmental-sensor-dashboard](./02-environmental-sensor-dashboard)
+ [02-environmental-sensor-dashboard](./02-Environmental-Dashboard)
 
 **Technologies Used:**
 - Python (Paho-MQTT)
@@ -82,7 +82,7 @@ Industrial facility monitoring system for tracking environmental conditions in s
 ---
 
 ##  Industrial MQTT Topic Architecture  
- [03-mqtt-topic-architecture](./03-mqtt-topic-architecture)
+ [03-mqtt-topic-architecture](./03-Mqtt-Topic-Architecture)
 
 **Technologies Used:**
 - MQTT Explorer
